@@ -78,8 +78,8 @@ const App = () => {
 				<thead className=''>
 					<tr className='border-b-2 py-[10px]'>
 						<th className=''>Title</th>
-						<th className=''>status</th>
 						<th className=''>description</th>
+						<th className=''>status</th>
 						<th className=''>actions</th>
 					</tr>
 				</thead>
